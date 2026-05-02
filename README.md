@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Merger&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=The%20Developer%20Collaboration%20Platform&descAlignY=58&descColor=a0a0ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Merger&fontSize=80&fontColor=ffffff&fontAlignY=32&desc=The%20Developer%20Collaboration%20Platform&descAlignY=58&descColor=a0a0ff" width="100%" />
 
 <br/>
 
@@ -60,6 +60,7 @@ Merger leverages state-of-the-art AI to streamline collaboration and project man
 ## 📸 Visual Showcase
 
 ### The Hub & Insights
+
 <div align="center">
   <img src="./assets/landing-hub.png" width="800px" alt="Merger Landing Hub" />
   <p><i><b>Landing Hub:</b> A centralized entry point for all your collaborative activities.</i></p>
@@ -71,6 +72,7 @@ Merger leverages state-of-the-art AI to streamline collaboration and project man
 </div>
 
 ### Discovery & Networking
+
 <div align="center">
   <div style="display: flex; gap: 10px; justify-content: center;">
     <img src="./assets/explore-projects.png" width="45%" alt="Explore Projects" />
@@ -80,6 +82,7 @@ Merger leverages state-of-the-art AI to streamline collaboration and project man
 </div>
 
 ### Project Deep-Dive
+
 <div align="center">
   <div style="display: flex; gap: 10px; justify-content: center;">
     <img src="./assets/project-listing.png" width="45%" alt="Project Listing" />
@@ -89,6 +92,7 @@ Merger leverages state-of-the-art AI to streamline collaboration and project man
 </div>
 
 ### Collaboration Tools
+
 <div align="center">
   <div style="display: flex; gap: 10px; justify-content: center;">
     <img src="./assets/user-profile.png" width="45%" alt="User Profile" />
@@ -101,27 +105,27 @@ Merger leverages state-of-the-art AI to streamline collaboration and project man
 
 ## ✨ Key Features
 
-| Feature | Description |
-| :--- | :--- |
-| **👤 Rich Profiles** | Showcase your skills, bio, and portfolio to stand out in the community. |
-| **🔀 Merge Requests** | The "Handshake for Builders" — a formal way to propose collaboration. |
-| **📁 Task Management** | Integrated boards to keep your team aligned and productive. |
-| **💬 Real-time Chat** | Low-latency communication powered by Ably/Firebase. |
-| **🌍 Bilingual (i18n)** | Full English and Arabic support with seamless RTL/LTR switching. |
-| **🔔 Smart Alerts** | Push notifications to keep you updated on the go. |
+| Feature                 | Description                                                             |
+| :---------------------- | :---------------------------------------------------------------------- |
+| **👤 Rich Profiles**    | Showcase your skills, bio, and portfolio to stand out in the community. |
+| **🔀 Merge Requests**   | The "Handshake for Builders" — a formal way to propose collaboration.   |
+| **📁 Task Management**  | Integrated boards to keep your team aligned and productive.             |
+| **💬 Real-time Chat**   | Low-latency communication powered by Ably/Firebase.                     |
+| **🌍 Bilingual (i18n)** | Full English and Arabic support with seamless RTL/LTR switching.        |
+| **🔔 Smart Alerts**     | Push notifications to keep you updated on the go.                       |
 
 ---
 
 ## 🛠️ Modern Tech Stack
 
-| Layer | Technology |
-| :--- | :--- |
-| **Core** | Next.js 16 (App Router), React 19, TypeScript 5 |
-| **Design** | Tailwind CSS 4, Framer Motion (Animations), Lucide Icons |
-| **Backend** | Server Actions, Drizzle ORM, Turso (SQLite) |
-| **Auth** | NextAuth.js (GitHub & Google OAuth) |
-| **AI** | Google Gemini 1.5 Pro, Groq LPU™ Inference |
-| **Infrastructure** | Firebase (Realtime DB & FCM), Ably (Pub/Sub), Vercel |
+| Layer              | Technology                                               |
+| :----------------- | :------------------------------------------------------- |
+| **Core**           | Next.js 16 (App Router), React 19, TypeScript 5          |
+| **Design**         | Tailwind CSS 4, Framer Motion (Animations), Lucide Icons |
+| **Backend**        | Server Actions, Drizzle ORM, Turso (SQLite)              |
+| **Auth**           | NextAuth.js (GitHub & Google OAuth)                      |
+| **AI**             | Google Gemini 1.5 Pro, Groq LPU™ Inference               |
+| **Infrastructure** | Firebase (Realtime DB & FCM), Ably (Pub/Sub), Vercel     |
 
 ---
 
