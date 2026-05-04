@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-merger.vercel.app-6366f1?style=for-the-badge&logoColor=white)](https://merger.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-merger--ecru.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://merger-ecru.vercel.app)
 &nbsp;
-[![Status](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=for-the-badge)](https://merger.vercel.app)
+[![Status](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=for-the-badge)](https://merger-ecru.vercel.app)
 &nbsp;
 [![License](https://img.shields.io/badge/License-MIT-a78bfa?style=for-the-badge)](./LICENSE)
 &nbsp;
@@ -133,7 +133,7 @@ Merger leverages state-of-the-art AI to streamline collaboration and project man
 
 Merger is a live platform — start building your next big thing today.
 
-1. **Visit:** [merger.vercel.app](https://merger.vercel.app)
+1. **Visit:** [merger-ecru.vercel.app](https://merger-ecru.vercel.app)
 2. **Authenticate:** Sign in securely with GitHub or Google.
 3. **Onboard:** Set up your developer profile.
 4. **Merge:** Find a project or developer and start collaborating.
